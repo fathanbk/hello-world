@@ -2,7 +2,7 @@
   <ion-page>
     <ion-header>
       <ion-toolbar>
-        <ion-title>Author Summary</ion-title>
+        <ion-title>Author Biography</ion-title>
       </ion-toolbar>
     </ion-header>
     <ion-content :fullscreen="true" >
